@@ -1,5 +1,5 @@
 image:
-  registry: <your-acr-name>
+  registry: contosocontainerregistry31582
   name: contoso-website
   tag: latest
 
